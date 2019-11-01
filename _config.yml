@@ -1,13 +1,13 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://yoursite.github.io"   #change this to yours
-title: My name or organisation # site's title
-description: "A website with blog posts and pages" # used by search engines
+url: "https://fruitfruitime.github.io"   #change this to yours
+title: fruitfruitime # site's title
+description: "Yeolmae Yang website" # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
+avatar: assets/img/face.jp2
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
@@ -16,23 +16,23 @@ gridlayout: false # change to true if you want grd layout
 
 # Header and footer text
 # Change this text to yourown
-header_text: Me and my blog
+header_text: fruitfruitime
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /images/hhh.jpg
+header_feature_image: /images/bb.jpg
 twitter_username: puboxford  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2019 My name"
+    "Copyright 2019 yeolmae"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
-email_address: # Full email address, e.g. "sam@example.com"
+email_address: "920687@gmail.com" # Full email address, e.g. "sam@example.com"
 facebook:
 flickr:
 google_plus:
-instagram:
+instagram: "instagram.com/yy.m.yym"
 linkedin:  # Full URL
 pinterest:
 soundcloud:
@@ -82,7 +82,7 @@ exclude: [".jekyll-cache", "Gemfile", "README.md"]
 # You can also use prose (prose.io) to edit and post to your site
 prose:
   #rooturl: '_posts'
-  siteurl: 'https://yoursite.github.io'
+  siteurl: 'https://fruitfruitime.github.io'
   media: 'images'
   ignore:
     - README.md
