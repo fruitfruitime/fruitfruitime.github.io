@@ -24,7 +24,7 @@ twitter_username: puboxford  #change to your own twitter account
 lang: en_gb
 # change the following to your name or site name
 footer_text:
-    "Copyright 2019 yeolmae"
+    "Copyright 2019 by yeolmae"
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout

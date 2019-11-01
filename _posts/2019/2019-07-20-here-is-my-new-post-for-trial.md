@@ -26,12 +26,16 @@ tags:
 [![northernline helsinki](/images/04.jpg)](/images/04.jpg)
 ## Here is a an image
 
-[![if you want to know more information...](/images/2019/07/00.jpg)](/images/2019/07/00.jpg)
+[![if you want to know more information, click it!](/images/2019/07/00.jpg)](/images/2019/07/00.jpg)
 
 ISBN    9790110961733-1-9-03920
+
 발행일    2017년 11월 30일
+
 규격     170*240mm
+
 페이지    168p
+
 가격     18,000원
 
 
