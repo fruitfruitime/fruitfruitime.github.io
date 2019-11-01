@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Here is my books
-date: 2019-10-19
+date: 2019-11-01
 published: true
 header_feature_image: images/2019/07/00.jpg
 caption: "northernline helsinki"
 tags:
   - Journalism
   - Life
-  - Food
+  - travel
+  - Helsinki
+  - finland
+  - independent publishing
 ---
 
 This is just a sample post that you should delete or set to `published:false`. This paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
