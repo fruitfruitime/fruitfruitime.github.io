@@ -3,7 +3,7 @@ layout: post
 title: LINE MAGAZINE Vol.8 Mokpo in Korea
 date: 2019-11-01 14:33
 published: true
-header_feature_image: images/01.jpg
+header_feature_image: images/06.jpg
 caption:
 tags:    
 - Journalism
