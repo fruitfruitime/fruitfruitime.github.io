@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Here is a sample blog post
+title: Here is my books
 date: 2019-10-19
 published: true
-header_feature_image: images/2019/07/tomatoes.jpg
-caption: "Juicy Tomatoes"
+header_feature_image: images/2019/07/00.jpg
+caption: "northernline helsinki"
 tags:
   - Journalism
   - Life
@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Here is a an image
 
-[![Here are some students](/images/2019/07/IMG_1016.jpg)](/images/2019/07/IMG_1016.jpg)
+[![Here are some students](/images/2019/07/00.jpg)](/images/2019/07/00.jpg)
 
 Vitae purus faucibus ornare _suspendisse_. At augue eget arcu dictum varius duis at consectetur lorem. Eleifend mi in nulla posuere sollicitudin aliquam. Sit amet dictum sit amet. Malesuada pellentesque elit eget gravida. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. **Sagittis** eu volutpat odio facilisis mauris sit amet massa vitae. Lorem sed risus ultricies **tristique** nulla aliquet enim tortor at. Leo vel orci porta non pulvinar neque laoreet suspendisse interdum. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi.
 
