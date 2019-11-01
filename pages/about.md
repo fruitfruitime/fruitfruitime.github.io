@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: All about me and my life #optional sub title to the post
+subtitle: All about LINE magazine #optional sub title to the post
 permalink: /about/
 header_feature_image:  /images/03.jpg #replace this for yours
 tags:
